@@ -1,0 +1,6 @@
+Sistema de login simples em django 
+Objetivo praticar conceitos básicos de desenvolvimento.
+Créditos de templates para:
+             https://htmlcodex.com
+             https://themewagon.com
+
